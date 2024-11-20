@@ -1,0 +1,6 @@
+git init
+git clone repositoryname
+git add .
+git commit
+git branch -m branchname
+
